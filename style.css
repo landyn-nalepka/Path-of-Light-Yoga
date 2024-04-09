@@ -2,11 +2,14 @@ body{
     background-color: #F5F5F5;
     color: #40407A;
     font-family: Verdana, Arial, or sans-serif;
+   
 }
 
 header{
     background-color: #80CBC4;
     background-image: url(lilyheader.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 footer{
